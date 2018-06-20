@@ -25,7 +25,7 @@ hero_button:
   text: Sponsored Content Marketing
   href: "/about"
 show_news: true
-show_staff: false
+show_staff: true
 menu:
   navigation:
     name: Home
